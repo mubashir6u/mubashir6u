@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/mubashir6u/mubashir6u/main/engr.%20Mubashir%20Hussain%20(5).png">
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/mubashir6u/mubashir6u/main/engr.%20Mubashir%20Hussain%20(8).png">
 
 <h1 align="center">Hi 👋, I'm Engr. Mubashir Hussain</h1>
 <h3 align="center">👨‍💻 Data Scientist | 🤖 Machine Learning Engineer | 🧠 AI Researcher | 🏆 Kaggle Grandmaster | 🌐 Bridging the Gap Between Data and Decisions | 💡 Turning Ideas into Predictive Models</h3>
