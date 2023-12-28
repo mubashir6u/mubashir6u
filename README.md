@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="50%" src="https://raw.githubusercontent.com/mubashir6u/mubashir6u/main/engr.%20giphy(1).gif">
+<img align="right" alt="Coding" width="50%" src="https://raw.githubusercontent.com/mubashir6u/mubashir6u/main/giphy%20(1).gif">
 
 - 🔭 I’m currently working on **Islam360 Python module**
 
